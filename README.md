@@ -10,19 +10,19 @@ In this video we talk about background tasks in Node.js with Redis, using a libr
 </p>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/robertosousa1/background-jobs-class-by-dio.svg">
-  
+
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/robertosousa1/background-jobs-class-by-dio.svg">
-  
+
   <a href="https://www.codacy.com/app/robertosousa1/background-jobs-class-by-dio?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=robertosousa1/background-jobs-class-by-dio&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/70c8e79c83b442278f6c276ebf117ae4.svg">
   </a>
 
-  
+
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/robertosousa1/background-jobs-class-by-dio.svg">
   <a href="https://github.com/robertosousa1/background-jobs-class-by-dio/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/robertosousa1/background-jobs-class-by-dio.svg">
   </a>
-  
+
   <a href="https://github.com/robertosousa1/background-jobs-class-by-dio/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/robertosousa1/background-jobs-class-by-dio.svg">
   </a>
@@ -65,7 +65,5 @@ After merging your receipt request to done, you can delete a branch from yours.
 This project is under the MIT license. See the [LICENSE](https://github.com/robertosousa1/background-jobs-class-by-dio/blob/master/LICENSE) for more information.
 
 ----------
-
-Made with by Roberto Sousa  👋  [Get in touch!](https://www.linkedin.com/in/robertosousa01/)
 
 
